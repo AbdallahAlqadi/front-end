@@ -1,7 +1,8 @@
-div{
-background-color: blueviolet;
-}
-.new{
 
+#navBar {
+    background-color: blueviolet;
+}
+#navBar h1{
     color: aqua;
+    text-align: center;
 }
