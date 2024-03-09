@@ -1,8 +1,24 @@
 
 #navBar {
     background-color: blueviolet;
+   
 }
 #navBar h1{
     color: aqua;
+    text-align: center;
+
+}
+
+#navBar .navbuttons{
+cursor:grabbing;
+border-radius: 15%;
+
+}
+#foote{
+
+    background-color: blueviolet;
+}
+#foote h1{ 
+
     text-align: center;
 }
