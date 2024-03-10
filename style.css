@@ -6,7 +6,7 @@
     }
 #navBar {
     background-color: blueviolet;
-  
+ 
 }
 #navBar h1{
     color: aqua;
@@ -22,4 +22,7 @@
 #foote h1{ 
 
     text-align: center;
+    margin-top: 410px;
+    padding: 20px;
+
 }
