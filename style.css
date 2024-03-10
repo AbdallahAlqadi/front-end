@@ -1,32 +1,41 @@
-#navBar .navbuttons{
-    cursor:grabbing;
-    border-radius: 15%;
-    margin-left:210px;
-   margin-bottom: 8px;
- font-size: large;
-    
-    }
-#navBar {
-    background-color: rgb(116, 226, 43);
- 
-
+#navBar{
+    background-color: blueviolet;
 
 }
+
 #navBar h1{
-    color: rgb(18, 19, 19);
+    color: rgb(238, 241, 241);
     text-align: center;
 margin-bottom: 30px;
 }
 
 
 #foote{
+    background-color: rgb(153, 43, 226);
+    position:fix;
+    color: aliceblue;
+    bottom: 0%;
+    width: 1360px;
+    text-align: center;
+    height: 60px;
+   
+}
 
-    background-color: rgb(116, 226, 43);
+
+#menu{
+    margin-left: 250px;
+   padding-bottom: 15px;
   
 }
-#foote h1{ 
-    text-align: center;
-    margin-top: 410px;
-    padding: 20px;
 
+.navbuttons{
+    margin-left: 100px;
+    padding-left: 20px;
+    border-radius: 10px;
+    height: 35px;
+    width: 100px;
+}
+
+.navbuttons:hover{  
+   background-color: rgb(161, 29, 157);
 }
