@@ -1,7 +1,12 @@
-
+#navBar .navbuttons{
+    cursor:grabbing;
+    border-radius: 15%;
+    
+    
+    }
 #navBar {
     background-color: blueviolet;
-   
+  
 }
 #navBar h1{
     color: aqua;
@@ -9,13 +14,7 @@
 
 }
 
-#navBar .navbuttons{
-cursor:grabbing;
-border-radius: 15%;
-align-items:center;
-font-size: 110%;
-display: flex;
-}
+
 #foote{
 
     background-color: blueviolet;
