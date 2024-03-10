@@ -7,12 +7,13 @@
     
     }
 #navBar {
-    background-color: blueviolet;
+    background-color: rgb(116, 226, 43);
  
+
 
 }
 #navBar h1{
-    color: aqua;
+    color: rgb(18, 19, 19);
     text-align: center;
 margin-bottom: 30px;
 }
@@ -20,7 +21,7 @@ margin-bottom: 30px;
 
 #foote{
 
-    background-color: blueviolet;
+    background-color: rgb(116, 226, 43);
   
 }
 #foote h1{ 
