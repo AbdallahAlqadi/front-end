@@ -2,23 +2,26 @@
     cursor:grabbing;
     border-radius: 15%;
     margin-left:210px;
-    position: relative;
+   margin-bottom: 8px;
+ font-size: large;
     
     }
 #navBar {
     background-color: blueviolet;
  
+
 }
 #navBar h1{
     color: aqua;
     text-align: center;
-
+margin-bottom: 30px;
 }
 
 
 #foote{
 
     background-color: blueviolet;
+  
 }
 #foote h1{ 
 
