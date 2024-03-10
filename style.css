@@ -24,7 +24,7 @@ margin-bottom: 30px;
   
 }
 #foote h1{ 
-
+position: relative;
     text-align: center;
     margin-top: 410px;
     padding: 20px;
