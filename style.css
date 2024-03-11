@@ -12,7 +12,7 @@ margin-bottom: 30px;
 
 #foote{
     background-color: rgb(153, 43, 226);
-    position:fix;
+    position:fixed;
     color: aliceblue;
     bottom: 0%;
     width: 1350px;
