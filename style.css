@@ -1,6 +1,6 @@
 #navBar{
     background-color: blueviolet;
-    width: 1400px;
+    width: 1350px;
 }
 
 #navBar h1{
@@ -15,7 +15,7 @@ margin-bottom: 30px;
     position:fix;
     color: aliceblue;
     bottom: 0%;
-    width: 1360px;
+    width: 1350px;
     text-align: center;
     height: 60px;
    
