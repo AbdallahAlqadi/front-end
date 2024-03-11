@@ -1,30 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <style>
-        body{
-            background-image: url(ed109363b616219a885c6dec5057b8d7.png);
-        }
-    </style>
+    <link rel="stylesheet" href="style.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <style>
+        form{
+            text-align: center;
+            margin-top: 100px;
+        }
+    </style>
 </head>
 <body>
    
-    <form  style="margin-top: 240px;margin-left: 2px; text-align: center; font-size: larger;">
-<label>Name:</label><input style="margin-left: 20px; width: 250px;height: 25px;" type="text" id="name" name="name" placeholder="please enter a name" required>
-<br>
-<br>
-<label>password:</label><input style="margin-left: 20px; width: 250px;height: 25px;" type="password" id="password" name="password" placeholder="please enter a password" required>
-<br>
-<br>
-<label>Email:</label><input style="margin-left: 20px; width: 250px;height: 25px;" type="email" id="email" name="email" placeholder="please enter a email" required>
-<br>
-<br>
+      
+    <div id="navBar">
+        <h1>Welcome To Our home Page</h1>
+        <div id="menu">
+        <a href="index.html"><button class="navbuttons">home</button></a>
+        <a href="cotact.html"><button class="navbuttons">contact</button></a>
+     <a href="about.html"><button class="navbuttons">About</button></a>
+      <a href="new.html"> <button class="navbuttons">News</button></a> 
+        </div>
+            </div>
+        
+    <div id="contant">
+<form>
+    <br>
+    <label for="name">Name: </label><input type="text" placeholder="Please enter a Name"required>
+    <br>
+    <br>
+    <label for="password">password: </label><input type="password" placeholder="Please enter a password"required>
+    <br>
+    <br>
+    <label for="phone">Phone: </label><input type="tel" placeholder="Please enter a Phone"required>
+    <br>
+    <br>
+    <button>insert</button>
+    </div>
 
-<button style="margin-left: 70px;width: 90px;">insert</button>
-   
-    </form>
+    <div id="foote" style="margin-top: 430px;">
+<h1> i am Footer</h1>
+    </div>
 </body>
 </html>
