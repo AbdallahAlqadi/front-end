@@ -1,6 +1,8 @@
 #navBar{
     background-color: rgb(18, 18, 19);
     width: 1350px;
+    padding-top: 30px;
+    padding-left: 100px;
 }
 
 #navBar h1{
@@ -29,11 +31,12 @@ margin-bottom: 30px;
 }
 
 .navbuttons{
-    margin-left: 100px;
-    padding-left: 20px;
-    border-radius: 10px;
+    margin-left: 50px;
+    padding-left: 10px;
+    border-radius: 9px;
     height: 35px;
-    width: 100px;
+    width: 70px;
+    border-style:groove;
 }
 
 .navbuttons:hover{  
