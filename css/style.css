@@ -1,5 +1,5 @@
 #navBar{
-    background-color: blueviolet;
+    background-color: rgb(18, 18, 19);
     width: 1350px;
 }
 
@@ -11,7 +11,7 @@ margin-bottom: 30px;
 
 
 #foote{
-    background-color: rgb(153, 43, 226);
+    background-color: rgb(13, 13, 14);
     position:inherit;
     color: aliceblue;
     bottom: 0%;
