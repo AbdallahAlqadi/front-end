@@ -13,7 +13,7 @@ margin-bottom: 30px;
 }
 
 
-#foote{
+footer{
     background-color: rgb(13, 13, 14);
     position:inherit;
     color: aliceblue;
@@ -21,7 +21,7 @@ margin-bottom: 30px;
     width: 1340px;
     text-align: center;
     height: 60px;
-  
+
 }
 
 
