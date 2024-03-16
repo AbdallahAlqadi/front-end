@@ -46,10 +46,26 @@ margin-top: 217px;
 
 /*make the nav and footer responsive for  mobile ,tab,pc */
 /* we can change  the style depends on the user or client screen width*/
-
-@media screen and (max-width: 680px) {
-    #foote{
+body{
+    background-color: rgb(245, 245, 245);
+    height:375px;
+}
+@media only screen and (max-width: 680px) {
+    body{
       background-color: red;
+    }
+  }
+
+  @media only screen and (max-width: 480px) {
+    #navBar{
+
+width: 1200px;
+
+    }
+   body{
+      background-color: rgb(55, 0, 255);
+     
+     
     }
   }
 
