@@ -73,3 +73,11 @@ width: 1200px;
     width: 10px;
     height: 10px;
   }
+  #contact{
+    background-color: red;
+  }
+  @media only screen and (max-width: 500px) {
+    #contact{
+      background-color: aqua;
+    }
+  }
